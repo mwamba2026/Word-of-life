@@ -20,7 +20,7 @@ The repository is public. Uploading the source did **not** deploy the working we
 
 ## Remaining before public site launch
 
-1. Choose and provision production hosting for the ASP.NET Core app and a reachable MySQL 8 database. Keep credentials in host environment settings, not the repository. The app currently creates its schema with `EnsureCreated`; introduce EF migrations before storing durable production data.
+1. Upgrade the ASP.NET Core app from .NET 8 to a supported release before permanent public deployment. Microsoft ended .NET 8 support on 10 November 2026: https://dotnet.microsoft.com/en-us/platform/support/policy/dotnet-core. Choose and provision hosting for the app and a reachable MySQL 8 database. Keep credentials in host environment settings, not the repository. The app currently creates its schema with `EnsureCreated`; introduce EF migrations before storing durable production data.
 2. Configure HTTPS, the exact `AllowedHosts`, a trusted reverse proxy, persistent data-protection keys, and `Media__StoragePath` outside the deploy directory. Back up MySQL and media files. Configure request limits for permitted uploads.
 3. Set up the administrator account before opening registration, assign the admin role with the one-time bootstrap key, and remove that key afterward. Administrator email verification/MFA and media malware scanning are not implemented.
 4. Run end-to-end tests on the actual host and MySQL: health, registration, sign-in, private notes, feedback, prayer/support, staff publishing, upload, and playback. The 1 November handoff reports passing local MySQL form tests; online staging and browser media playback were not verified.
