@@ -1,0 +1,344 @@
+{
+  "readings": [
+    {
+      "id": "psalm-23",
+      "reference": "Psalm 23",
+      "theme": "When you need a shepherd",
+      "poetry": true,
+      "verses": [
+        {
+          "n": 1,
+          "text": "The LORD is my shepherd; I shall not want."
+        },
+        {
+          "n": 2,
+          "text": "He maketh me to lie down in green pastures: he leadeth me beside the still waters."
+        },
+        {
+          "n": 3,
+          "text": "He restoreth my soul: he leadeth me in the paths of righteousness for his name’s sake."
+        },
+        {
+          "n": 4,
+          "text": "Yea, though I walk through the valley of the shadow of death, I will fear no evil: for thou art with me; thy rod and thy staff they comfort me."
+        },
+        {
+          "n": 5,
+          "text": "Thou preparest a table before me in the presence of mine enemies: thou anointest my head with oil; my cup runneth over."
+        },
+        {
+          "n": 6,
+          "text": "Surely goodness and mercy shall follow me all the days of my life: and I will dwell in the house of the LORD for ever."
+        }
+      ],
+      "question": "Which part of your life most needs the care of a good shepherd right now: rest, direction, comfort, or protection?",
+      "plainWords": "“I shall not want” means “I will not be without what I truly need.”"
+    },
+    {
+      "id": "john-3-16-17",
+      "reference": "John 3:16-17",
+      "theme": "God’s love for the world",
+      "verses": [
+        {
+          "n": 16,
+          "text": "For God so loved the world, that he gave his only begotten Son, that whosoever believeth in him should not perish, but have everlasting life."
+        },
+        {
+          "n": 17,
+          "text": "For God sent not his Son into the world to condemn the world; but that the world through him might be saved."
+        }
+      ],
+      "question": "How would today feel different if you truly believed that God looks at you with love, not condemnation?",
+      "plainWords": "“His only begotten Son” means God’s one and only Son, Jesus."
+    },
+    {
+      "id": "romans-8-28",
+      "reference": "Romans 8:28",
+      "theme": "Trusting God in hard seasons",
+      "verses": [
+        {
+          "n": 28,
+          "text": "And we know that all things work together for good to them that love God, to them who are the called according to his purpose."
+        }
+      ],
+      "question": "Think of a hard season you have already come through. What good, even something small, did God bring out of it?"
+    },
+    {
+      "id": "philippians-4-6-7",
+      "reference": "Philippians 4:6-7",
+      "theme": "Peace in place of worry",
+      "verses": [
+        {
+          "n": 6,
+          "text": "Be careful for nothing; but in every thing by prayer and supplication with thanksgiving let your requests be made known unto God."
+        },
+        {
+          "n": 7,
+          "text": "And the peace of God, which passeth all understanding, shall keep your hearts and minds through Christ Jesus."
+        }
+      ],
+      "question": "What is one worry you could turn into a short, honest prayer right now, together with one thing you are thankful for?",
+      "plainWords": "“Be careful for nothing” is older English for “don’t be full of worry about anything.” “Supplication” means asking humbly."
+    },
+    {
+      "id": "isaiah-40-31",
+      "reference": "Isaiah 40:31",
+      "theme": "Strength for the tired",
+      "verses": [
+        {
+          "n": 31,
+          "text": "But they that wait upon the LORD shall renew their strength; they shall mount up with wings as eagles; they shall run, and not be weary; and they shall walk, and not faint."
+        }
+      ],
+      "question": "Where are you running on empty? What would it look like to wait on God there instead of pushing on alone?",
+      "plainWords": "To “wait upon the LORD” means to keep trusting and looking to Him, not simply to pass the time."
+    },
+    {
+      "id": "proverbs-3-5-6",
+      "reference": "Proverbs 3:5-6",
+      "theme": "Guidance for decisions",
+      "poetry": true,
+      "verses": [
+        {
+          "n": 5,
+          "text": "Trust in the LORD with all thine heart; and lean not unto thine own understanding."
+        },
+        {
+          "n": 6,
+          "text": "In all thy ways acknowledge him, and he shall direct thy paths."
+        }
+      ],
+      "question": "What decision are you trying to work out on your own? How could you invite God into it today?",
+      "plainWords": "“Acknowledge him” means to recognise God and include Him in every part of life."
+    },
+    {
+      "id": "joshua-1-9",
+      "reference": "Joshua 1:9",
+      "theme": "Courage for the next step",
+      "verses": [
+        {
+          "n": 9,
+          "text": "Have not I commanded thee? Be strong and of a good courage; be not afraid, neither be thou dismayed: for the LORD thy God is with thee whithersoever thou goest."
+        }
+      ],
+      "question": "What step have you been afraid to take? Does knowing that God goes with you change how it looks?",
+      "plainWords": "“Dismayed” means discouraged or alarmed. “Whithersoever thou goest” means “wherever you go.”"
+    }
+  ],
+  "teachings": [
+    {
+      "title": "The Day of the Lord Pt. 2",
+      "credit": "Doug Batchelor · Amazing Facts",
+      "topic": "The Sabbath",
+      "series": "Amazing Facts with Doug Batchelor · 2026",
+      "summary": "A Bible teaching on the seventh-day Sabbath and its place in Christian life.",
+      "url": "https://www.amazingfacts.org/watch/broadcasts/amazing-facts-with-doug-batchelor/amazing-facts-with-doug-batchelor-2026/the-day-of-the-lord-pt-2/"
+    },
+    {
+      "title": "Revelation and Inspiration Lesson 5",
+      "credit": "Amazing Facts",
+      "topic": "The gift of prophecy",
+      "series": "The Gift of Prophecy · 2026",
+      "summary": "A study of how God communicated through the prophets.",
+      "url": "https://www.amazingfacts.org/watch/broadcasts/studying-the-word/the-gift-of-prophecy-2026/revelation-and-inspiration-lesson-5/"
+    }
+  ],
+  "audiobooks": [
+    {
+      "title": "The High Cost of the Cross",
+      "description": "A Christian audiobook listed in the Amazing Facts catalog.",
+      "url": "https://www.amazingfacts.org/listen/christian-audiobooks/aim_the_high_cost_of_the_cross-mp3/"
+    },
+    {
+      "title": "Anything but Secret",
+      "description": "A Christian audiobook listed in the Amazing Facts catalog.",
+      "url": "https://www.amazingfacts.org/listen/christian-audiobooks/anything-but-secret/"
+    }
+  ],
+  "guides": [
+    {
+      "lesson": "Lesson 1",
+      "title": "Is There Anything Left You Can Trust?",
+      "description": "Explore why the Bible can be trusted.",
+      "url": "https://www.amazingfacts.org/study/bible-study-guides/is-there-anything-left-you-can-trust/"
+    },
+    {
+      "lesson": "Lesson 2",
+      "title": "Did God Create the Devil?",
+      "description": "Study the Bible account of the origin of evil.",
+      "url": "https://www.amazingfacts.org/study/bible-study-guides/did-god-create-the-devil/"
+    },
+    {
+      "lesson": "Lesson 3",
+      "title": "Saved from Certain Death",
+      "description": "Consider the Bible message of salvation.",
+      "url": "https://www.amazingfacts.org/study/bible-study-guides/saved-from-certain-death/"
+    }
+  ],
+  "hymns": [
+    {
+      "id": "amazing-grace",
+      "title": "Amazing Grace",
+      "theme": "Grace",
+      "author": "John Newton",
+      "description": "A testimony of rescue: grace that finds the lost, opens blind eyes, and leads us safely home.",
+      "verse": "Amazing grace! How sweet the sound\nThat saved a wretch like me!\nI once was lost, but now am found;\nWas blind, but now I see."
+    },
+    {
+      "id": "holy-holy-holy",
+      "title": "Holy, Holy, Holy",
+      "theme": "Praise",
+      "author": "Reginald Heber",
+      "description": "A hymn of adoration to God in three Persons, lifting our worship to His holiness and mercy.",
+      "verse": "Holy, holy, holy! Lord God Almighty!\nEarly in the morning our song shall rise to Thee;\nHoly, holy, holy, merciful and mighty!\nGod in three Persons, blessed Trinity!"
+    },
+    {
+      "id": "it-is-well",
+      "title": "It Is Well with My Soul",
+      "theme": "Comfort",
+      "author": "Horatio Spafford",
+      "description": "Born out of great personal sorrow, a quiet confession that the soul can rest in God through every storm.",
+      "verse": "When peace, like a river, attendeth my way,\nWhen sorrows like sea billows roll;\nWhatever my lot, Thou hast taught me to say,\nIt is well, it is well with my soul."
+    },
+    {
+      "id": "blessed-assurance",
+      "title": "Blessed Assurance",
+      "theme": "Hope",
+      "author": "Fanny Crosby",
+      "description": "A joyful song of confidence in Christ that looks ahead to the glory promised to His people.",
+      "verse": "Blessed assurance, Jesus is mine!\nO what a foretaste of glory divine!\nHeir of salvation, purchase of God,\nBorn of His Spirit, washed in His blood."
+    },
+    {
+      "id": "what-a-friend",
+      "title": "What a Friend We Have in Jesus",
+      "theme": "Comfort",
+      "author": "Joseph Scriven",
+      "description": "An invitation to carry every burden, sin, and grief to God in prayer, because He is a faithful friend.",
+      "verse": "What a friend we have in Jesus,\nAll our sins and griefs to bear!\nWhat a privilege to carry\nEverything to God in prayer!\nO what peace we often forfeit,\nO what needless pain we bear,\nAll because we do not carry\nEverything to God in prayer!"
+    },
+    {
+      "id": "abide-with-me",
+      "title": "Abide with Me",
+      "theme": "Comfort",
+      "author": "Henry Francis Lyte",
+      "description": "An evening prayer for God’s nearness when the light fades and other helpers fail.",
+      "verse": "Abide with me; fast falls the eventide;\nThe darkness deepens; Lord, with me abide;\nWhen other helpers fail and comforts flee,\nHelp of the helpless, O abide with me."
+    }
+  ],
+  "reflections": [
+    {
+      "id": "rest-for-the-weary",
+      "title": "Rest for the Weary",
+      "reference": "Matthew 11:28-30",
+      "excerpt": "Jesus does not wait for us to have it all together. He invites the tired and the heavy-hearted to come to Him just as they are.",
+      "body": [
+        "Tiredness is not only in the body. We can carry weariness in our minds and hearts too: worry about family, pressure at work, grief, or the feeling that we are never quite enough.",
+        {
+          "reference": "Matthew 11:28-29",
+          "verse": "Come unto me, all ye that labour and are heavy laden, and I will give you rest. Take my yoke upon you, and learn of me; for I am meek and lowly in heart: and ye shall find rest unto your souls."
+        },
+        "A yoke was a wooden frame that joined two animals so they could pull a load together. Jesus does not promise a life without work or burdens. He offers to walk beside us, share the weight, and set a pace we can keep.",
+        "He describes Himself as “meek and lowly in heart.” He is gentle with us. We do not have to impress Him or earn His welcome. Being tired is reason enough to come.",
+        "Rest might look like a short prayer at your desk, an early night, a walk without your phone, or an honest conversation with God about what you are carrying. Small moments of coming to Him add up to a rested soul."
+      ],
+      "tryThis": "Take five quiet minutes today. Tell God plainly what feels heavy, then read Matthew 11:28-30 slowly, twice."
+    },
+    {
+      "id": "strength-of-surrender",
+      "title": "The Strength of Surrender",
+      "reference": "Proverbs 3:5-6",
+      "excerpt": "True spiritual growth begins when we stop trying to control every outcome and trust God with the process.",
+      "body": [
+        "Most of us like to have a plan. We make lists, rehearse conversations in our heads, and try to see around every corner. Planning is good, but it can slowly turn into a quiet belief that everything depends on us.",
+        {
+          "reference": "Proverbs 3:5-6",
+          "verse": "Trust in the LORD with all thine heart; and lean not unto thine own understanding. In all thy ways acknowledge him, and he shall direct thy paths."
+        },
+        "Surrender is not giving up, and it is not pretending we do not care. It is choosing to hold our plans with an open hand. We still do the work in front of us, but we stop carrying the weight of the outcome as if it were ours alone.",
+        "Notice the words “all thine heart” and “all thy ways.” God is not asking for the leftover corners of our lives. He invites us to bring the whole of it: our work, our families, our money, our fears. That can feel risky, yet it is where real peace begins.",
+        "Surrender is rarely one big moment. It is a small choice made again and again: this morning, this conversation, this decision. Each time we say, “Lord, I trust you with this,” our grip loosens a little and our hearts grow a little stronger."
+      ],
+      "tryThis": "Name one situation you have been trying to control. Pray one honest sentence handing it to God, then take the next faithful step and leave the rest with Him."
+    },
+    {
+      "id": "prayer-that-changes-us",
+      "title": "Prayer That Changes Us",
+      "reference": "Philippians 4:6-7",
+      "excerpt": "Prayer is not only asking for help. It is repositioning our hearts to hear God and align with His will.",
+      "body": [
+        "We often come to prayer with a list, and that is welcome. God invites our requests. Yet prayer is more than a way to get things done. It is time spent with Someone who loves us, and time with Him slowly changes who we are.",
+        {
+          "reference": "Philippians 4:6-7",
+          "verse": "Be careful for nothing; but in every thing by prayer and supplication with thanksgiving let your requests be made known unto God. And the peace of God, which passeth all understanding, shall keep your hearts and minds through Christ Jesus."
+        },
+        "“Be careful for nothing” is older English for “don’t be full of worry about anything.” Paul does not promise that every request will be answered the way we expect. He promises something deeper: a peace that guards the heart and mind. Often the situation stays the same for a while, but we do not. We become calmer, kinder, and more ready to listen.",
+        "Notice the small phrase “with thanksgiving.” Gratitude turns our attention from what is missing to what God has already given. It is hard to stay anxious and thankful at the same time.",
+        "So when you pray, leave room for quiet. Say what is on your heart, then pause and listen. Prayer is a conversation, and some of the most important changes happen in the silence."
+      ],
+      "tryThis": "Before you ask for anything today, thank God for three specific things. Then bring your request, and sit quietly with Him for one minute afterwards."
+    },
+    {
+      "id": "hope-during-delay",
+      "title": "Hope During Delay",
+      "reference": "Isaiah 40:31",
+      "excerpt": "God’s timing is often different from ours, but it is never void of purpose, protection, or provision.",
+      "body": [
+        "Waiting is hard. Whether you are waiting for work, for healing, for a relationship to be mended, or for a prayer to be answered, the days can feel long and the silence heavy. Scripture never pretends that waiting is easy, but it does tell us that waiting is not wasted.",
+        {
+          "reference": "Isaiah 40:31",
+          "verse": "But they that wait upon the LORD shall renew their strength; they shall mount up with wings as eagles; they shall run, and not be weary; and they shall walk, and not faint."
+        },
+        "To wait upon the Lord is not to sit still and do nothing. It is to keep looking to Him, keep trusting Him, and stay faithful in small things while the big thing has not yet arrived. Waiting like this is an active kind of hope.",
+        "Delay can also be a form of care. Sometimes God is preparing us for what we are asking for, or preparing it for us. We rarely see the whole picture while we are in the middle of it, but we can know that He has not forgotten us.",
+        "Notice the order in the verse: mount up, run, walk. Some days you will feel like soaring. On other days, simply walking without fainting is the victory. Both are gifts of strength from God."
+      ],
+      "tryThis": "Write down what you are waiting for. Beside it, write one small, faithful thing you can do today while you wait."
+    },
+    {
+      "id": "lamp-for-the-next-step",
+      "title": "A Lamp for the Next Step",
+      "reference": "Psalm 119:105",
+      "excerpt": "God may not show us the whole road at once, but His word gives enough light for the step in front of us.",
+      "body": [
+        "Many of us want to see the whole map before we begin. We want to know how the story ends, how every need will be met, and where the path will lead years from now.",
+        {
+          "reference": "Psalm 119:105",
+          "verse": "Thy word is a lamp unto my feet, and a light unto my path."
+        },
+        "An oil lamp in Bible times gave a small circle of light, enough to see where to place your feet. It did not light up the whole valley. God often guides us the same way: not with every answer at once, but with enough light for today.",
+        "This is why a daily habit of reading Scripture matters. A few verses read slowly and honestly can steady a worried mind, correct a wrong turn, or give courage for a hard conversation. Over time, those small lights become a path you can look back on, and you can see how faithfully God has led you.",
+        "You do not need to read a lot to begin. Choose a short passage, read it twice, and ask what it shows you about God and about your next step."
+      ],
+      "tryThis": "Choose one passage from the reading plan on the Bible page and write down one sentence it says to you today."
+    },
+    {
+      "id": "serving-with-joy",
+      "title": "Serving with Joy",
+      "reference": "Psalm 100:2",
+      "excerpt": "The most meaningful service is done with humility, gratitude, and a willingness to love people as Christ does.",
+      "body": [
+        "Serving others often starts with excitement and can slowly become a heavy duty. We keep showing up, but the joy fades and we begin to feel tired or unseen.",
+        {
+          "reference": "Psalm 100:2",
+          "verse": "Serve the LORD with gladness: come before his presence with singing."
+        },
+        "Gladness in service does not usually come from the task itself. Setting out chairs, cooking a meal, or visiting someone who is lonely can be very ordinary work. The joy comes from remembering who we are really serving. When we serve people, we serve the Lord, and He sees what no one else notices.",
+        "Humility helps too. When we serve to be noticed, we are easily hurt. When we serve out of gratitude for what God has done for us, we are free to give without keeping score.",
+        "Joyful service also makes room for rest. The Gospels show Jesus often going away to quiet places to pray. If serving has lost its joy, it may be time to step back, receive from God, and return refreshed rather than running on empty."
+      ],
+      "tryThis": "Do one small, quiet act of kindness today that no one will thank you for, and offer it to God as worship."
+    }
+  ],
+  "site": {
+    "mission": "A quiet place for Scripture, reflection, and prayer.",
+    "donation": {
+      "mpesaPaybill": "",
+      "mpesaAccount": "",
+      "bankName": "",
+      "bankAccountName": "",
+      "bankAccountNumber": "",
+      "contactEmail": ""
+    }
+  },
+  "podcasts": []
+}

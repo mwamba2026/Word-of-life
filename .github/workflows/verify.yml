@@ -1,0 +1,26 @@
+name: Verify Words of Life source
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: npm
+          cache-dependency-path: frontend/package-lock.json
+      - uses: actions/setup-dotnet@v4
+        with:
+          dotnet-version: '8.0.x'
+      - name: Build frontend
+        working-directory: frontend
+        run: |
+          npm ci
+          npm run build
+      - name: Build backend
+        run: dotnet build backend/FaithOutreach.Api/FaithOutreach.Api.csproj -c Release
